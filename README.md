@@ -11,3 +11,5 @@ This is a Spring Boot Application with the following features :
 9. Convert ResultSet to JSOn directly - No Need for any intermediary class.
 10. Send Image REST API.
 11. Configurable Filter for Authentication. 
+12. SPA without no framework like ANGULAR, REACT, VUEJS, etc.
+13. And many more goodies , so enjoy
