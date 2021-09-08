@@ -10,7 +10,7 @@ This is a Spring Boot Application with the following features:
 8.	JDBC- Postgress
 9.	Asynchronous File Upload via JQuery.
 10.	Download
-11.	Convert ResultSet to JSOn directly - No Need for any intermediary class.
+11.	Convert ResultSet to JSON directly - No Need for any intermediary class.
 12.	Send Image REST API.
 13.	Configurable Filter for Authentication. 
 14.	SPA without no framework like ANGULAR, REACT, VUEJS, etc.
